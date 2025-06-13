@@ -10,7 +10,6 @@ O projeto busca promover uma reflexão crítica sobre como as zonas urbanas e ru
 
 - HTML5
 - CSS3
-- JavaScript (para interatividade)
 - Emojis e fontes web para estilização visual
 
 🧩 Seções do Site
